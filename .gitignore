@@ -3,11 +3,12 @@
 *.exe~
 *.dll
 *.so
+*.las
 *.dylib
-
+/tmp
 # Test binary, built with `go test -c`
 *.test
-
+/Output
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
